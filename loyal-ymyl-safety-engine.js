@@ -1,5 +1,7 @@
-LOYAL YMYL — SITEWIDE SAFETY DECLARATION ENGINE v1.0.0
+Add LOYAL YMYL safety engine v1.0.0
+Sitewide 24/7/365 safety declaration, international evidence references, JSON-LD and GTM integration for LOYAL TATTOO + LT MACHINES.
 
+  
 
 /*
  * LOYAL TATTOO + LT MACHINES
